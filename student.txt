@@ -1,0 +1,6 @@
+Ayush|MCA|3|70
+latika|MCA|3|73
+jatin|BCA|5|73
+ketan|BCA|5|80
+rashi|BCA|5|90
+shekhar|BCA|4|74

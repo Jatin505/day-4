@@ -1,0 +1,7 @@
+fo=open(r"c:\python\student.txt","w")
+str1=input("enter text:")
+x=fo.write(str1)
+print("no of bytes written:",x)
+fo.write('\nWe are using file handling')
+fo.close()
+print("work done")
